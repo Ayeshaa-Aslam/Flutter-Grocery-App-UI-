@@ -1,16 +1,14 @@
-# task
+Flutter Grocery App UI – Multi-Screen Layout
 
-A new Flutter project.
+This UI contains three UI screens.
 
-## Getting Started
+How to use 
+1. Clone the Repository
+   1. git clone https://github.com/Ayeshaa-Aslam/Flutter-Grocery-App-UI- 
+   2. cd flutter-grocery-ui
+2. Install Packages
+   1. flutter pub get
+3. Run the App
+   1. flutter run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter-based UI project for a modern grocery shopping experience. The app contains three connected screens, a visually appealing homepage, and smooth navigation using a curved bottom navigation bar.
